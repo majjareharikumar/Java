@@ -8,6 +8,8 @@ public class SpringBootdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootdemoApplication.class, args);
+
+		System.out.println("Hi ram");
 	}
 
 }
